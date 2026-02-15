@@ -20,6 +20,6 @@ Variant selection always updates both the displayed image and product link URL.
 
 Notes:
 
-No additional metafields were added; the solution relies entirely on alt text conventions.
+No additional metafields were added the solution relies entirely on alt text conventions.
 
 All updates are scoped to the product card component (product-card.js)
