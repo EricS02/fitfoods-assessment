@@ -23,3 +23,5 @@ Notes:
 No additional metafields were added the solution relies entirely on alt text conventions.
 
 All updates are scoped to the product card component (product-card.js)
+
+Working prototype link: https://testingpracticestore.myshopify.com/collections/all
